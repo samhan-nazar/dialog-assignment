@@ -1,3 +1,26 @@
+body{
+    margin: 0;
+}
+h1,h2,h3,h4,h5{
+    color: red;
+}
+
+/* navbar */
+.nav-link{
+    color: red !important;
+    margin-right: 10px !important;
+    margin-left: 10px; 
+}
+
+.active{
+    color: white !important;
+    background-color: red;
+}
+
+.navbar{
+    padding: 0 !important;
+}
+
 .my-row{
     margin-top: 3rem;
 }
@@ -5,13 +28,23 @@
 .my-col{
     background-color: red;
 }
-
+/* Our work */
 .work-row{
     margin-top: 1rem;
+    margin-bottom: 1rem;
     padding: 15px;
     background-color: #F6F6F6;
 }
 
 .work-a{
     padding-top: 50%;
+}
+
+/* footer */
+
+footer{
+    position: relative;
+    vertical-align: bottom;
+    background-color: black;
+    color: white;
 }
