@@ -1,0 +1,17 @@
+.my-row{
+    margin-top: 3rem;
+}
+
+.my-col{
+    background-color: red;
+}
+
+.work-row{
+    margin-top: 1rem;
+    padding: 15px;
+    background-color: #F6F6F6;
+}
+
+.work-a{
+    padding-top: 50%;
+}
