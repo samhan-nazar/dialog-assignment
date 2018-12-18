@@ -29,9 +29,12 @@ h1,h2,h3,h4,h5{
     background-color: red;
 }
 /* Our work */
+.project-item{
+    margin-bottom: 4rem;
+}
 .work-row{
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     padding: 15px;
     background-color: #F6F6F6;
 }
@@ -43,8 +46,7 @@ h1,h2,h3,h4,h5{
 /* footer */
 
 footer{
-    position: relative;
-    vertical-align: bottom;
     background-color: black;
     color: white;
+    min-height: 100%;
 }
